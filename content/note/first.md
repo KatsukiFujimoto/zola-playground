@@ -1,6 +1,8 @@
 +++
-title = "My first note"
+title = "一時ノート"
 date = 2022-06-14
 +++
 
-This is my first note.
+## これなに？
+
+まだ未整理の情報を一時的に置いていく場所

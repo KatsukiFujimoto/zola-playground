@@ -1,5 +1,4 @@
 +++
-title = "ノート"
-sort_by = "date"
+title = "テスト"
 insert_anchor_links = "right"
 +++

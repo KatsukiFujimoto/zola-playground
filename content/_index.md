@@ -3,18 +3,6 @@ title = "Zola Playground"
 insert_anchor_links = "right"
 +++
 
-# Hoge
+## これなに？
 
-## Test
-
-- hoge
-
-# FooBar
-
-## Test
-
-- foobar
-
-```rust
-let highlight = true;
-```
+Zola について遊び倒せる Zola の遊び場です。
