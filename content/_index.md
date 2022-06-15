@@ -1,5 +1,6 @@
 +++
 title = "Zola Playground"
+insert_anchor_links = "right"
 +++
 
 # Hoge
